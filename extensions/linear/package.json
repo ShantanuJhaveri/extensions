@@ -10,7 +10,8 @@
   "contributors": [
     "mathieudutour",
     "thomas",
-    "peduarte"
+    "peduarte",
+    "shantanujhaveri"
   ],
   "categories": [
     "Productivity"
@@ -159,6 +160,11 @@
         {
           "name": "description",
           "placeholder": "Description",
+          "type": "text"
+        },
+        {
+          "name": "teamKey",
+          "placeholder": "Team Key",
           "type": "text"
         }
       ]
